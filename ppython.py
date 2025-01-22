@@ -7,5 +7,4 @@ def factorial(n):
         result = result *i
         i+=1
         print("the factorial value of {} is".format(n, result))
-
-# i for got to see in gitub
+# i for got to see in vs terminal button 
