@@ -7,3 +7,5 @@ def factorial(n):
         result = result *i
         i+=1
         print(result)
+
+# i for got to see in gitub
