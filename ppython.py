@@ -6,6 +6,6 @@ def factorial(n):
     while i<=n:
         result = result *i
         i+=1
-        print(result)
+        print("the factorial value of {} is".format(n, result))
 
 # i for got to see in gitub
